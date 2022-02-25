@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The procession a poem on Her Majesties funeral / by a gentleman of the army.</title>
+            <author>Steele, Richard, Sir, 1672-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61385</idno>
+            <idno type="STC">Wing S5381A</idno>
+            <idno type="STC">ESTC R7205</idno>
+            <idno type="EEBO-CITATION">13098550</idno>
+            <idno type="OCLC">ocm 13098550</idno>
+            <idno type="VID">97384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 779:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The procession a poem on Her Majesties funeral / by a gentleman of the army.</title>
+                  <author>Steele, Richard, Sir, 1672-1729.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition published in 1695 has imprint: Printed for Thomas Bennet ...</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Cf. Wise, T.J. The Ashley library. 1922-1936. v. 5, p. 199</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97384:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 83 -->
+            <p>The Proceſſion.</p>
+            <p>A POEM ON Her Majeſties FUNERAL.</p>
+            <p>By a Gentleman of the Army.</p>
+            <q>
+               <l>—Fungar inani</l>
+               <l>Munere—</l>
+               <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Whitlock</hi> in <hi>Amen-Corner</hi> near <hi>Sta<g ref="char:EOLhyphen"/>tioners-Hall.</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97384:2"/>
+            <!-- PDF PAGE 84 -->
+            <pb facs="tcp:97384:2"/>
+            <!-- PDF PAGE 84 -->
+            <head>TO THE RIGHT HONOURABLE The Lord CUTTS.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>COmpaſſion which gives us a more ſweet, and ge<g ref="char:EOLhyphen"/>nerous touch, than any other concern that attends our Nature, had at the Funeral-Proceſſion ſo ſenſible an effect upon ev'n <hi>Me,</hi> that I could not for<g ref="char:EOLhyphen"/>bear being guilty of the Paper with which I preſume to trouble your Lordſhip. For what could be a more mo<g ref="char:EOLhyphen"/>ving conſideration, then that a Lady, who had all that Youth, Beauty, Virtue, and Power could beſtow, ſhould be ſo ſuddenly ſnatch'd from us? A Lady that was ſerv'd by the Sword, and celebrated by the Pen of my Lord <hi>Cutts.</hi> Though indeed, if we rightly eſteem'd things, we ſhould lament for our <hi>own</hi> ſakes, not <hi>Hers;</hi> ſo Poor a thing it is to make an Evil of that, which is certainly the kindeſt Boon of Nature, our <hi>Diſſolution.</hi> But the Men of Honour are not ſo ungratefull to their <hi>Friend</hi> Death, as to look at him in the ghaſtly dreſs the World gives him, of Rawbones, Shackles, Chains, Diſeaſes, and Torments; they know that he is ſo far from bringing ſuch Company, that he relieves us from 'em. So little is there in what Men make ſuch Po<g ref="char:EOLhyphen"/>ther about, and ſo much is it an Irony to call it <hi>brave</hi> to expire calmly, and <hi>reſolution</hi> to go to reſt. This
+<pb facs="tcp:97384:3"/>
+               <!-- PDF PAGE 85 -->is no News to your Lordſhip, whom Death has ſo often allur'd with the <hi>Glory</hi> of Dangers, and with the <hi>Beau<g ref="char:EOLhyphen"/>ty</hi> of Wounds, I'll not be ſo Poetical to ſay, your Muſe hover'd about you, and ſav'd you inſpight of the many you have receiv'd, but am ſure, I may ſay, ſhe'll preſerve you, when you can receive no more: For <hi>Apollo</hi> is a Phyſician ev'n <hi>after Death:</hi> As to my Verſes, all, methinks, on the Dead Queen ought to be addreſs'd to your Lordſhip; who, in the Dedication of your own Works, beſt adorn'd her Living; if Good for your Entertainment, Bad for your Pardon; if, when theſe are thrown aſide, an Eye caſt upon 'em introduces the mention of ſo excellent a Princeſs, where other<g ref="char:EOLhyphen"/>wiſe She had not been ſpoken off, I have my full end; nor do I think I come late on a Subject, which all Good Men will Eternally dwell upon; I am ſenſible how ſhort I have fall'n of expreſſing the gracefull con<g ref="char:EOLhyphen"/>cern of ſome Honourable Perſonages, whoſe Names I have preſum'd with; I deſign'd 'em only an oblique Com<g ref="char:EOLhyphen"/>mendation, and nam'd 'em for the very Reaſon they walk'd at the <hi>Funeral,</hi> which was not to ſhow them<g ref="char:EOLhyphen"/>ſelves, but to do Honour to the Queen. But ſhould it prove any way offenſive, <hi>I</hi> hope to ſhun their, and your Lordſhip's Reſentment by the concealment of my name, and borrow the unknown Knight's device, in Sir <hi>Philip Sidney,</hi> of the Fiſh <hi>Sepia,</hi> which when catch'd in the Net, caſts a black Ink about it, and ſo makes it's eſcape. This thought, my Lord, checks the fervent Am<g ref="char:EOLhyphen"/>bition I have long had, of expreſſing my ſelf, My Lord,</p>
+            <closer>
+               <dateline>
+                  <date>March 19. 1694/5.</date>
+               </dateline>
+               <signed>Your Lordſhip's Most Paſſionate Admirer And Most Devoted Humble Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:97384:3"/>
+            <!-- PDF PAGE 85 -->
+            <head>The Proceſſion.</head>
+            <head type="sub">A POEM ON Her MAJESTIES FUNERAL.</head>
+            <lg>
+               <l>THE days of Man are doom'd to Pain and Strife,</l>
+               <l>Quiet and Eaſe are <hi>Foreign</hi> to our Life;</l>
+               <l>No ſatisfaction is, below, ſincere</l>
+               <l>Pleaſure itſelf has ſomething that's <hi>ſevere:</hi>
+               </l>
+               <l>But long the fickle wayward <hi>Britiſh</hi> Iſle</l>
+               <l>Did with <hi>falſe</hi> Mirth and Joy it ſelf beguile;</l>
+               <l>
+                  <pb n="2" facs="tcp:97384:4"/>
+                  <!-- PDF PAGE 86 -->
+To wild Exceſs their Frantick Humours fly,</l>
+               <l>While <hi>WILLIAM</hi>'s <hi>flowing</hi> Fortunes bouy 'em high:</l>
+               <l>But a chill Damp, and Faintneſs ſeize on all,</l>
+               <l>By Dread <hi>MARIA</hi>'s <hi>Univerſal</hi> Fall:</l>
+               <l>Their uſual Luxury all Orders leave,</l>
+               <l>With Joint-conſent to be their Selves, and <hi>Grieve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From diſtant homes the <hi>Pitying Nations</hi> come,</l>
+               <l>A <hi>Mourning World</hi> t' attend her to her Tomb:</l>
+               <l>The Poor, Her Firſt and Deepeſt Mourner's are,</l>
+               <l>Firſt in Her <hi>Thoughts,</hi> and Earlieſt in Her care;</l>
+               <l>All hand in hand with common Friendly Woe,</l>
+               <l>In Poverty, our <hi>Native</hi> State, they go:</l>
+               <l>Some whom unſtable Errors did engage,</l>
+               <l>By Luxury in Youth, to need in Age:</l>
+               <l>Some who had Virgin Vows for Wedlock broke,</l>
+               <l>And where, they help expected, found a <hi>Yoke;</hi>
+               </l>
+               <l>Others who labour with the double Weight</l>
+               <l>Of Want, and Mem'ry of a <hi>Plenteous</hi> State;</l>
+               <l>There Mothers Walk wh' have oft deſpairing ſtood,</l>
+               <l>Pierc'd with their Infants deafning ſobs for Food;</l>
+               <l>Then to a Dagger ran, with threat'ning Eyes</l>
+               <l>To ſtab their Boſoms, and to huſh their Cries;</l>
+               <l>But in the thought they ſtopp'd, their Locks they tore,</l>
+               <l>Threw down the Steel, and <hi>Cruelly</hi> forbore:</l>
+               <l>
+                  <pb n="3" facs="tcp:97384:4"/>
+                  <!-- PDF PAGE 86 -->
+The Innocents their Parent's Love <hi>forgive,</hi>
+               </l>
+               <l>Smile at their Fate, nor know they are to <hi>live:</hi>
+               </l>
+               <l>Theſe modeſt wants had ne'er been underſtood,</l>
+               <l>But by <hi>MARIA</hi>'s <hi>Cunning</hi> to be good;</l>
+               <l>None on their State now caſt a Pitying Eye,</l>
+               <l>Hear their Complaints, or will their Want ſupply;</l>
+               <l>They move as if they went, (ſo deep's their moan)</l>
+               <l>Not only to Her Grave, but to their own;</l>
+               <l>That were relief, but coming Days they mourn,</l>
+               <l>Oppreſs'd with Life, and <hi>fearful</hi> to <hi>return.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With <hi>Dread</hi> concern, the <hi>Awful</hi> Senate came,</l>
+               <l>Their <hi>Grief,</hi> as all their Paſſions, is the <hi>ſame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The next Aſſembly diſſipates our Fears,</l>
+               <l>The <hi>Stately Mourning</hi> Throng of <hi>Britiſh</hi> Peers;</l>
+               <l>There, is each Member skill'd, and able known</l>
+               <l>For ev'ry weighty Purpoſe of a Throne;</l>
+               <l>T' adorn, or to defend their Native Iſle,</l>
+               <l>Or Jarring Neighbour States to reconcile;</l>
+               <l>But moſt from <hi>Ormond</hi>'s Port our Souls we chear,</l>
+               <l>And Hecatombs expect for every Tear:</l>
+               <l>For to the Foe is certain Vengeance ſent,</l>
+               <l>When Heroes <hi>ſuffer,</hi> and the Brave <hi>lament;</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:97384:5"/>
+                  <!-- PDF PAGE 87 -->
+To one their every Character may fall,</l>
+               <l>
+                  <hi>Sommer</hi>'s, th' implicit Man that ſpeaks 'em all,</l>
+               <l>That <hi>comprehenſive</hi> Man unskill'd in naught,</l>
+               <l>With all the Arts of Learn'd Aſſemblies fraught;</l>
+               <l>Ready his Wit, his Language Free and <hi>Pure,</hi>
+               </l>
+               <l>His Judgment Quick and Sudden, yet <hi>mature;</hi>
+               </l>
+               <l>He can their different Powers at once diſpenſe,</l>
+               <l>So juſtly is he form'd to <hi>ſpeak their Senſe:</hi>
+               </l>
+               <l>But now Dumb Sorrow repreſents 'em more,</l>
+               <l>Then e'er his Powerful Eloquence before,</l>
+               <l>Though when his Lips with their known Rhet'rick flow.</l>
+               <l>The <hi>World's as ſilent,</hi> as himſelf is now.</l>
+            </lg>
+            <lg>
+               <l>Now all are Paſt, yon' Wondrous Man appears,</l>
+               <l>We yield to <hi>Gay Diſtreſs</hi> and comely Tears:</l>
+               <l>
+                  <hi>Villars!</hi> a Name deſign'd by Nature Chief,</l>
+               <l>T' invite to <hi>Joy,</hi> or reconcile to <hi>Grief.</hi>
+               </l>
+               <l>The Groſs of Men were to courſe Uſes Born,</l>
+               <l>But Heav'n made them Creation to <hi>adorn,</hi>
+               </l>
+               <l>With mix'd diſturb'd Delight by all is ſeen,</l>
+               <l>His <hi>Moving</hi> Manner, and his <hi>Speaking</hi> meen;</l>
+               <l>Rage, Pity, and Diſdain at once we trace,</l>
+               <l>In the <hi>diſtracted</hi> Beauties of his Face;</l>
+               <l>We meaſure his each Step, each Motion Scan,</l>
+               <l>The <hi>Grief</hi> of Woman! but the <hi>Strength</hi> of Man!</l>
+               <l>
+                  <pb n="5" facs="tcp:97384:5"/>
+                  <!-- PDF PAGE 87 -->
+To ſuch an Heigth his ſwoln Afflictions grow,</l>
+               <l>H' inſpires the Steed he leads with Humane Woe;</l>
+               <l>The <hi>Generous</hi> Beaſt looks back to 's Purple ſide,</l>
+               <l>And now <hi>laments</hi> what was before his <hi>Pride:</hi>
+               </l>
+               <l>No more at Voice of Warring Muſick bounds,</l>
+               <l>He feels <hi>New Paſſion</hi> as the Trumpet ſounds;</l>
+               <l>Nor knows what Power, his Courage ſtole away,</l>
+               <l>But heaves into big <hi>Sighs</hi> when he would <hi>Neigh.</hi>
+               </l>
+               <l>Here at a ſtand our weary'd Sorrow ſeems</l>
+               <l>Rack'd with new Forms, and tortur'd with Extremes;</l>
+               <l>E'er this ſad Triumph paſt we found relief,</l>
+               <l>Continu'd anguiſh loſt the ſenſe of Grief;</l>
+               <l>But ſtill the Chariot fainting force ſupply'd,</l>
+               <l>Anew we all reviv'd, anew we dy'd;</l>
+               <l>Grief did all bounds ambitiouſly deny,</l>
+               <l>Swell'd every Breaſt, and melted every Eye.</l>
+               <l>Lo! Death himſelf! See him Triumphant ride!</l>
+               <l>Lo! the <hi>Grim Being</hi> moves with ſullen Pride;</l>
+               <l>His Jaws are glutted for th' enſuing Year,</l>
+               <l>He'll ſhun our Cities, and our Armies <hi>ſpare:</hi>
+               </l>
+               <l>The Ladies plac'd on high with looks deject,</l>
+               <l>With down intended looks our Souls direct.</l>
+               <l>Gold, Purple, Tiſſue, <hi>Crowns Enchant</hi> the ſight,</l>
+               <l>And move our Grief, that us'd to give <hi>Delight:</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:97384:6"/>
+                  <!-- PDF PAGE 88 -->
+There drowſie Gems, their Nature know no more,</l>
+               <l>But gather <hi>Darkneſs</hi> now, as <hi>Light</hi> before;</l>
+               <l>There all that's Bright i' th' <hi>Widow</hi>'d World is ſeen,</l>
+               <l>Too faint t' expreſs, ev'n the <hi>Departed Queen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No Mortal Beauty yet recalls an Eye,</l>
+               <l>The neareſt Mourners paſs neglected by;</l>
+               <l>But as the Ladies March, the lengthening row</l>
+               <l>Inſpires a more familiar <hi>Kindly Woe:</hi>
+               </l>
+               <l>Sure that's the Region of departed Loves,</l>
+               <l>Such <hi>Gloomy Day</hi> enlights th' Elyſian Groves;</l>
+               <l>One Univerſal Face their Paſſion wears,</l>
+               <l>But <hi>Darby</hi>'s <hi>ſmother'd</hi> Sighs and <hi>Guſhing Tears,</hi>
+               </l>
+               <l>In Her Affliction takes an abject State,</l>
+               <l>Something ſo humbly <hi>Low,</hi> yet very <hi>Great;</hi>
+               </l>
+               <l>No ſingle Cauſe ſo <hi>different Grief</hi> cou'd ſend,</l>
+               <l>She Weeps as <hi>Subject, Servant,</hi> and a <hi>Friend:</hi>
+               </l>
+               <l>To cloſe the Pomp the Fair Attendant Maids,</l>
+               <l>Appear <hi>true Angels</hi> dreſs'd like <hi>fancy'd Shades;</hi>
+               </l>
+               <l>Their Grief imparts t' unpitied Lover's eaſe,</l>
+               <l>
+                  <hi>Sadly</hi> they Charm, and <hi>diſmally</hi> they Pleaſe:</l>
+               <l>Their clouded <hi>Beauties</hi> ſpeak Man's <hi>gawdy</hi> ſtrife,</l>
+               <l>The glittering Miſeries of Humane Life.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:97384:6"/>
+               <!-- PDF PAGE 88 -->
+               <l>Who that theſe paſſing Obſequies had ſeen,</l>
+               <l>Wou'd e'er believe this were that <hi>very Queen;</hi>
+               </l>
+               <l>That very Queen, whom Heav'n ſo lately gave</l>
+               <l>A <hi>Crown,</hi> in the ſame Place where, now, a <hi>Grave!</hi>
+               </l>
+               <l>I ſee Her yet, Nature and Fortune's Pride,</l>
+               <l>A <hi>Scepter</hi> Grac'd her Hand, a <hi>King</hi> her Side,</l>
+               <l>Coeleſtial Youth and Beauty did impart,</l>
+               <l>Prophetick Viſion to the coldeſt Heart:</l>
+               <l>We ſaw her Children ſhould ſucceed her ſway,</l>
+               <l>And <hi>future Monarchs</hi> round her Table Play.</l>
+               <l>Her People's Acclamations rend the Skies,</l>
+               <l>The ecchoing Firmament returns their Cries.</l>
+               <l>She unconcern'd and careleſs all the while,</l>
+               <l>Rewards their loud applauſes with a <hi>Smile,</hi>
+               </l>
+               <l>With eaſie Majeſty, and <hi>Humble Stat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>Smiles at the <hi>trifle Power,</hi> and knows its date.</l>
+               <l>What being prov'd ſo furiouſly enclin'd,</l>
+               <l>For that Sh' <hi>each Day aſſum'd,</hi> each Night <hi>reſign'd<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>So ſhort a Period to Her Glories giv'n,</l>
+               <l>The <hi>Crime</hi> of Fate, and the reproach of Heav'n!</l>
+            </lg>
+            <lg>
+               <l>But now the Pomp to th' ſacred Abbey's led,</l>
+               <l>The Wide <hi>Capacious Palace</hi> of the Dead;</l>
+               <l>The Glaring Lamps diſturb their <hi>uſual Night,</hi>
+               </l>
+               <l>They half awaken'd with th' intruding Light.</l>
+               <l>
+                  <pb n="8" facs="tcp:97384:7"/>
+                  <!-- PDF PAGE 89 -->
+Souls to a <hi>Slumber</hi> Wake, and move their Clay,</l>
+               <l>They think her Pile, their <hi>Reſurrection</hi> Day.</l>
+               <l>What Hands commit the Beauteous Good and Juſt,</l>
+               <l>The Dearer Part of <hi>WILLIAM</hi> to the Duſt?</l>
+               <l>In Her his Vital Heat, his Glory lies,</l>
+               <l>In Her the Monarch liv'd, in Her he Dies.</l>
+               <l>One was their Soul while he ſecur'd Her reſt,</l>
+               <l>War's Hardſhips ſeem'd <hi>Luxurious</hi> to his Breaſt:</l>
+               <l>And he Abroad, no Peace repoſe could yield;</l>
+               <l>She felt the diſtant <hi>Dangers</hi> of the Field.</l>
+               <l>No form of State makes the Great Man forego,</l>
+               <l>The task due to <hi>Her Love,</hi> and to <hi>His Woe;</hi>
+               </l>
+               <l>Since his kind frame can't the large ſuffering bear,</l>
+               <l>In Pity to his People, he's not here:</l>
+               <l>For to the mighty loſs we now receive,</l>
+               <l>The next Affliction were to ſee him <hi>Grieve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There, <hi>MARY,</hi> undiſturb'd in quiet Sleep,</l>
+               <l>None ſhall Profane the Urn thy Aſhes keep,</l>
+               <l>Till, time's no more, by all thou ſhalt be read,</l>
+               <l>And be a Monument to thy Neighbour dead;</l>
+               <l>For <hi>Britiſh</hi> Bards thy Memory ſhall ſave,</l>
+               <l>And ſnatch thy Eternal Virtue from the Grave.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
